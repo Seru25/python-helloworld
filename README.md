@@ -1,4 +1,2 @@
 # python-helloworld
-Uda
-This is absolutely new
-hhahahhaha
+tests one and two
